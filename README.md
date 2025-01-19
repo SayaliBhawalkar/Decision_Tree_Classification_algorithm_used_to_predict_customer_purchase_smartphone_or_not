@@ -1,4 +1,4 @@
-problem statement
+Problem statement
 
 You have been tasked with creating a decision tree model to predict
 whether a person is likely to purchas a new smartphone based on their age, income. 
