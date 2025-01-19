@@ -23,6 +23,8 @@ The goal is to:
 
 .Develop a decision tree model that can accurately classify individuals as potential smartphone 
 purchasers or non-purchasers.
+
 .Gain insights into how the given attributes influence purchasing decisions.
+
 .Provide a solution that helps in understanding customer behavior and targeting marketing 
 efforts effectively.
